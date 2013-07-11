@@ -1,6 +1,9 @@
 # pillowtalk
 
-FIXME
+Asynchronous RESTful API
+[Austin Clojure Meetup]
+
+
 
 ## Prerequisites
 
@@ -10,6 +13,10 @@ FIXME
 * [CSP](https://github.com/clojure/core.async/tree/master/examples)
 
 [1]: https://github.com/technomancy/leiningen
+
+## Experiments
+
+* Playing around with [async in the repl](some-async.md)
 
 ## Running
 
