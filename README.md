@@ -30,6 +30,11 @@ I'm sure you'll be pushing back on the vision statement. Lets refine it together
 
 * Playing around with [async in the repl](some-async.md)
 
+## Reading material
+
+* Check out [Aleph](https://github.com/ztellman/aleph/wiki) and 
+  [Lamina](https://github.com/ztellman/lamina/wiki/Connections)
+
 ## Running
 
 To start a web server for the application, run:
